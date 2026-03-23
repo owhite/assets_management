@@ -13,6 +13,9 @@ __pycache__/
 # Logs
 *.log
 
+# Editor backup files
+*~
+
 # IDE
 .vscode/*
 !.vscode/tasks.json
